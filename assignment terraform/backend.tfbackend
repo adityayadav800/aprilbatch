@@ -1,0 +1,4 @@
+backend "s3" {
+    bucket         = "test-bucket-800090 "
+    key            = "prod/adityaTerraform.tfstate"
+  }

@@ -1,0 +1,4 @@
+bucket         = "creatednewbucketyajit"
+key            = "prod/adityaTerraform.tfstate"
+region         = "ap-south-1"
+encrypt        = true

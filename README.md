@@ -26,7 +26,7 @@ aprilbatch/
 ## Prerequisites
 
 - Java 11 or higher
-- Maven 3.6 or higher
+- Maven 3.6 or higher.
 
 ## Building Locally
 
